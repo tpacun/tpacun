@@ -10,10 +10,6 @@
 
 ---
 
-### :man_technologist: About Me :
-
-I approach my clients' problems as opportunities, and am always looking for ways to find creative solutions, rather than simply answers. Towards this end, I love to really dig into the details behind how and why things work in order to find the best tools for the job. Being able to convert knowledge of those details and actualizing projects to solve real problems for real people is at the heart of what motivates me.
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />
